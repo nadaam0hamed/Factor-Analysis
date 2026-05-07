@@ -12,11 +12,11 @@ This is an interactive **Streamlit** application for performing **Factor Analysi
 - 🎨 Professional UI with custom themes
 
 ## 🚀 Live Demo
-[Click here to view the app](https://your-app-name.streamlit.app)
+[Click here to view the app](https://factoranalysisnada.streamlit.app)
 
 ## 📦 Installation
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/factor-analysis-heart-disease.git
+git clone https://nadaam0hamed.github.io/Factor-Analysis/
 cd factor-analysis-heart-disease
