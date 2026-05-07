@@ -1,22 +1,24 @@
-# ❤️ Factor Analysis for Heart Disease Dataset
+# 📊 Factor Analysis - Data Analysis Tool
 
-## 📊 About the Project
-This is an interactive **Streamlit** application for performing **Factor Analysis** on heart disease data. The app helps identify hidden factors that contribute to heart disease.
+## 🔬 About the Project
+This is an interactive **Streamlit** application for performing **Factor Analysis** on any dataset. The app helps identify hidden factors and underlying patterns in your data.
 
-## 🎯 Features
-- 📁 Upload CSV files
-- 📊 Automatic data preprocessing
+## ✨ Features
+- 📁 Upload any CSV file
+- 🔧 Automatic data preprocessing (handles missing values, standardization)
+- 📊 Statistical adequacy tests (KMO & Bartlett's)
 - 🔍 Factor Analysis with multiple rotation methods
-- 📈 Interactive visualizations (Scree plot, Heatmap, etc.)
-- 💾 Download results as CSV
-- 🎨 Professional UI with custom themes
+- 📈 Interactive visualizations (Scree plot, Heatmap, Communalities plot)
+- 💾 Download results as CSV files
+- 🎨 Professional UI with customizable theme
 
 ## 🚀 Live Demo
+
 [Click here to view the app](https://factoranalysisnada.streamlit.app/)
 
 ## 📦 Installation
 
 ### 1. Clone the repository
 ```bash
-git clone https://nadaam0hamed.github.io/Factor-Analysis/
-cd factor-analysis-heart-disease
+git clone https://github.com/nadaam0hamed/Factor-Analysis.git
+cd Factor-Analysis
