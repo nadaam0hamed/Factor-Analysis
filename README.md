@@ -12,7 +12,7 @@ This is an interactive **Streamlit** application for performing **Factor Analysi
 - 🎨 Professional UI with custom themes
 
 ## 🚀 Live Demo
-[Click here to view the app](https://factor-analysis-zusqkcxozzsegd4nawfcgj.streamlit.app)
+[Click here to view the app] (https://factoranalysisnada.streamlit.app/)
 
 ## 📦 Installation
 
