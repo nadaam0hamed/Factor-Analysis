@@ -334,7 +334,7 @@ if uploaded_file is not None:
             # Perform Factor Analysis
             with st.spinner("🧮 Running Factor Analysis..."):
                 try:
-                    fa = FactorAnalyzer(n_factors=n_factors, rotation=rotation, method=method, use_smc=True)
+                    fa = FactorAnalyzer(n_factors=n_factors, rotation=rotation, method=method)
                     fa.fit(features_scaled)
                     st.success(f"✅ Factor Analysis completed with {n_factors} factors!")
                     
